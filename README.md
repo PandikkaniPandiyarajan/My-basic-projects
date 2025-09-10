@@ -17,10 +17,10 @@ The dashboard is designed to look clean, professional, and ready for reporting.
 - **SalesDashboard.pdf** → Exported PDF version of the dashboard for easy viewing  
 ## How to Use
 1. Download the files from this repository.  
-2. Open **SalesDashboard.xlsx** in Microsoft Excel (2010 or later recommended).  
+2. Open **Sales_Data_Analysis.xlsx** in Microsoft Excel (2010 or later recommended).  
 3. Review the dashboard and charts.  
 4. Optionally, explore **Sales_Data.xlsx** to see how the data connects.  
-5. If you don’t have Excel, open **Sales_Dashboard.pdf** for a static version.  
+5. If you don’t have Excel, open **SalesDashboard.pdf** for a static version.  
 
 ## Tools & Skills Demonstrated
 - Microsoft Excel (Charts, PivotTables, Dashboard Design)  
